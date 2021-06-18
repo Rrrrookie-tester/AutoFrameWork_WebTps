@@ -1,0 +1,17 @@
+operate_button:
+  # 顶部操作栏按钮
+  - css selector
+  - .tps-ant-space-item
+result_promte_button:
+  # 分割结果提示框确认按钮
+  - css selector
+  - .ant-btn-primary
+series_button:
+  # CT序列
+
+  - xpath
+  - '/html/body/div[1]/div/section/div/main/div/div[3]/div/div/div/div/div[1]/div/div[2]/div[1]/div/div/div[2]/div/div[1]/div/div[2]/div[1]/div/div[2]/div/div/div/div[2]/div[2]/div[3]/div[2]/div/div/div['
+  - ']'
+example_series:
+  - xpath
+  - /html/body/div[1]/div/section/div/main/div/div[3]/div/div/div/div/div[1]/div/div[2]/div[1]/div/div/div[2]/div/div[1]/div/div[2]/div[1]/div/div[2]/div/div/div/div[2]/div[2]/div[3]/div[2]/div/div/div[2]

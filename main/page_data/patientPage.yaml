@@ -1,0 +1,16 @@
+patient_name_input:
+  # 患者姓名
+  - id
+  - 'name'
+search_button:
+  # PA搜索按钮
+  - css selector
+  - .ant-btn-primary
+select_patient:
+  # 查询到的患者
+  - css selector
+  - .editable-row
+counter_button:
+  # 勾画按钮（序号为9）
+  - css selector
+  - .portal-ant-card-type-inner

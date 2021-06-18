@@ -1,0 +1,17 @@
+auto_part_button:
+  # 自动勾画部位按钮（1头颈部，2外轮廓...）
+  - css selector
+  - .tps-ant-modal-content .ag-center-cols-container :nth-child(
+  - )
+all_select_button:
+  # 全选ROI框
+  - css selector
+  - .tps-ant-checkbox-input
+move_button:
+  # 穿梭框按钮（0向右，1向左）
+  - css selector
+  - .tps-ant-btn-circle
+auto_submit_button:
+  # 确定按钮
+  - css selector
+  - .tps-ant-btn-primary

@@ -1,0 +1,12 @@
+username_input:
+  # 用户名输入款
+  - id
+  - 'userName_input'
+password_input:
+  # 密码输入框
+  - id
+  - 'LoginInput_Password'
+login_button:
+  # 登录按钮
+  - id
+  - 'btnLogin'
