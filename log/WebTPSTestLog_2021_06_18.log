@@ -1,0 +1,136 @@
+2021-Jun-18 09:37:10 - Exception.py - BasePage.py - [line:23] - ERROR - find element: series_button error !
+2021-Jun-18 09:37:10 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 99, in find_element_wait
+    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2021-Jun-18 09:52:49 - Exception.py - BasePage.py - [line:23] - ERROR - find element: series_button error !
+2021-Jun-18 09:52:49 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 99, in find_element_wait
+    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2021-Jun-18 10:05:56 - Exception.py - BasePage.py - [line:23] - ERROR - find element: series_button error !
+2021-Jun-18 10:05:56 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 99, in find_element_wait
+    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2021-Jun-18 10:15:12 - Exception.py - BasePage.py - [line:23] - ERROR - find element: series_button error !
+2021-Jun-18 10:15:12 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 99, in find_element_wait
+    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: invalid locator
+  (Session info: chrome=91.0.4472.106)
+
+
+2021-Jun-18 10:17:30 - Exception.py - BasePage.py - [line:23] - ERROR - find element: series_button error !
+2021-Jun-18 10:17:30 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 100, in find_element_wait
+    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: invalid locator
+  (Session info: chrome=91.0.4472.106)
+
+
+2021-Jun-18 10:20:34 - Exception.py - BasePage.py - [line:23] - ERROR - find element: series_button error !
+2021-Jun-18 10:20:34 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 100, in find_element_wait
+    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2021-Jun-18 10:21:42 - Exception.py - BasePage.py - [line:23] - ERROR - get element£º series_button error !
+2021-Jun-18 10:21:42 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 53, in find_element
+    return self.driver.find_element(*loc)
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="rc-tabs-15-panel-1"]/div/div[2]/div[1]/div/div[2]/div/div/div/div[2]/div[2]/div[3]/div[2]/div/div/div[1]"}
+  (Session info: chrome=91.0.4472.106)
+
+
+2021-Jun-18 10:23:22 - Exception.py - BasePage.py - [line:23] - ERROR - get element£º series_button error !
+2021-Jun-18 10:23:22 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 53, in find_element
+    return self.driver.find_element(*loc)
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="rc-tabs-15-panel-1"]/div/div[2]/div[1]/div/div[2]/div/div/div/div[2]/div[2]/div[3]/div[2]/div/div/div[1]"}
+  (Session info: chrome=91.0.4472.106)
+
+
+2021-Jun-18 10:34:44 - Exception.py - BasePage.py - [line:23] - ERROR - get element£º example_series error !
+2021-Jun-18 10:34:44 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 53, in find_element
+    return self.driver.find_element(*loc)
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="rc-tabs-17-panel-1"]/div/div[2]/div[1]/div/div[2]/div/div/div/div[2]/div[2]/div[3]/div[2]/div/div/div[2]"}
+  (Session info: chrome=91.0.4472.106)
+
+
+2021-Jun-18 10:38:10 - Exception.py - BasePage.py - [line:23] - ERROR - get element£º example_series error !
+2021-Jun-18 10:38:10 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 53, in find_element
+    return self.driver.find_element(*loc)
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSelectorException: Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=91.0.4472.106)
+
+

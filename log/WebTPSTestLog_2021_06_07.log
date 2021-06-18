@@ -1,0 +1,337 @@
+2021-Jun-07 16:26:26 - test_login.py - test_login.py - [line:17] - DEBUG - ----test: login start----
+2021-Jun-07 16:26:31 - test_login.py - test_login.py - [line:19] - DEBUG - ----test: login end ----
+2021-Jun-07 16:30:03 - test_login.py - test_login.py - [line:17] - DEBUG - ----test: login start----
+2021-Jun-07 16:30:08 - test_login.py - test_login.py - [line:19] - DEBUG - ----test: login end ----
+2021-Jun-07 16:30:08 - test_login.py - test_login.py - [line:17] - DEBUG - ----test: login start----
+2021-Jun-07 16:30:08 - test_login.py - test_login.py - [line:17] - DEBUG - ----test: login start----
+2021-Jun-07 16:30:14 - test_login.py - test_login.py - [line:19] - DEBUG - ----test: login end ----
+2021-Jun-07 16:30:14 - test_login.py - test_login.py - [line:19] - DEBUG - ----test: login end ----
+2021-Jun-07 16:30:14 - test_login.py - test_login.py - [line:17] - DEBUG - ----test: login start----
+2021-Jun-07 16:30:14 - test_login.py - test_login.py - [line:17] - DEBUG - ----test: login start----
+2021-Jun-07 16:30:14 - test_login.py - test_login.py - [line:17] - DEBUG - ----test: login start----
+2021-Jun-07 16:30:21 - test_login.py - test_login.py - [line:19] - DEBUG - ----test: login end ----
+2021-Jun-07 16:30:21 - test_login.py - test_login.py - [line:19] - DEBUG - ----test: login end ----
+2021-Jun-07 16:30:21 - test_login.py - test_login.py - [line:19] - DEBUG - ----test: login end ----
+2021-Jun-07 16:30:21 - test_login.py - test_login.py - [line:17] - DEBUG - ----test: login start----
+2021-Jun-07 16:30:21 - test_login.py - test_login.py - [line:17] - DEBUG - ----test: login start----
+2021-Jun-07 16:30:21 - test_login.py - test_login.py - [line:17] - DEBUG - ----test: login start----
+2021-Jun-07 16:30:21 - test_login.py - test_login.py - [line:17] - DEBUG - ----test: login start----
+2021-Jun-07 16:30:27 - test_login.py - test_login.py - [line:19] - DEBUG - ----test: login end ----
+2021-Jun-07 16:30:27 - test_login.py - test_login.py - [line:19] - DEBUG - ----test: login end ----
+2021-Jun-07 16:30:27 - test_login.py - test_login.py - [line:19] - DEBUG - ----test: login end ----
+2021-Jun-07 16:30:27 - test_login.py - test_login.py - [line:19] - DEBUG - ----test: login end ----
+2021-Jun-07 16:30:27 - test_login.py - test_login.py - [line:17] - DEBUG - ----test: login start----
+2021-Jun-07 16:30:27 - test_login.py - test_login.py - [line:17] - DEBUG - ----test: login start----
+2021-Jun-07 16:30:27 - test_login.py - test_login.py - [line:17] - DEBUG - ----test: login start----
+2021-Jun-07 16:30:27 - test_login.py - test_login.py - [line:17] - DEBUG - ----test: login start----
+2021-Jun-07 16:30:27 - test_login.py - test_login.py - [line:17] - DEBUG - ----test: login start----
+2021-Jun-07 16:30:33 - test_login.py - test_login.py - [line:19] - DEBUG - ----test: login end ----
+2021-Jun-07 16:30:33 - test_login.py - test_login.py - [line:19] - DEBUG - ----test: login end ----
+2021-Jun-07 16:30:33 - test_login.py - test_login.py - [line:19] - DEBUG - ----test: login end ----
+2021-Jun-07 16:30:33 - test_login.py - test_login.py - [line:19] - DEBUG - ----test: login end ----
+2021-Jun-07 16:30:33 - test_login.py - test_login.py - [line:19] - DEBUG - ----test: login end ----
+2021-Jun-07 16:36:33 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-0]>> start----
+2021-Jun-07 16:36:38 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-0]>> end----
+2021-Jun-07 16:36:38 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-1]>> start----
+2021-Jun-07 16:36:38 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-1]>> start----
+2021-Jun-07 16:36:43 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-1]>> end----
+2021-Jun-07 16:36:43 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-1]>> end----
+2021-Jun-07 16:36:43 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-2]>> start----
+2021-Jun-07 16:36:43 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-2]>> start----
+2021-Jun-07 16:36:43 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-2]>> start----
+2021-Jun-07 16:36:50 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-2]>> end----
+2021-Jun-07 16:36:50 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-2]>> end----
+2021-Jun-07 16:36:50 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-2]>> end----
+2021-Jun-07 16:36:51 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-3]>> start----
+2021-Jun-07 16:36:51 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-3]>> start----
+2021-Jun-07 16:36:51 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-3]>> start----
+2021-Jun-07 16:36:51 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-3]>> start----
+2021-Jun-07 16:36:56 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-3]>> end----
+2021-Jun-07 16:36:56 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-3]>> end----
+2021-Jun-07 16:36:56 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-3]>> end----
+2021-Jun-07 16:36:56 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-3]>> end----
+2021-Jun-07 16:36:56 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-4]>> start----
+2021-Jun-07 16:36:56 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-4]>> start----
+2021-Jun-07 16:36:56 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-4]>> start----
+2021-Jun-07 16:36:56 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-4]>> start----
+2021-Jun-07 16:36:56 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-4]>> start----
+2021-Jun-07 16:37:01 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-4]>> end----
+2021-Jun-07 16:37:01 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-4]>> end----
+2021-Jun-07 16:37:01 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-4]>> end----
+2021-Jun-07 16:37:01 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-4]>> end----
+2021-Jun-07 16:37:01 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[0-4]>> end----
+2021-Jun-07 16:37:01 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[1-0]>> start----
+2021-Jun-07 16:37:01 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[1-0]>> start----
+2021-Jun-07 16:37:01 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[1-0]>> start----
+2021-Jun-07 16:37:01 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[1-0]>> start----
+2021-Jun-07 16:37:01 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[1-0]>> start----
+2021-Jun-07 16:37:01 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[1-0]>> start----
+2021-Jun-07 16:37:06 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[1-0]>> end----
+2021-Jun-07 16:37:06 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[1-0]>> end----
+2021-Jun-07 16:37:06 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[1-0]>> end----
+2021-Jun-07 16:37:06 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[1-0]>> end----
+2021-Jun-07 16:37:06 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[1-0]>> end----
+2021-Jun-07 16:37:06 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[1-0]>> end----
+2021-Jun-07 16:37:06 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[1-1]>> start----
+2021-Jun-07 16:37:06 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[1-1]>> start----
+2021-Jun-07 16:37:06 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[1-1]>> start----
+2021-Jun-07 16:37:06 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[1-1]>> start----
+2021-Jun-07 16:37:06 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[1-1]>> start----
+2021-Jun-07 16:37:06 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[1-1]>> start----
+2021-Jun-07 16:37:06 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:<SubRequest 'func_fixure' for <Function test_login[1-1]>> start----
+2021-Jun-07 16:38:31 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:0 start----
+2021-Jun-07 16:38:36 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:0 end----
+2021-Jun-07 16:38:36 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:0 start----
+2021-Jun-07 16:38:36 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:0 start----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:0 start----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:0 end----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:1 start----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:1 start----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:1 end----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:1 end----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:2 end----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:2 end----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:2 end----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:3 end----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:3 end----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:3 end----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:3 end----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:4 start----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:4 start----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:4 start----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:4 start----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:4 start----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:4 end----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:4 end----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:4 end----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:4 end----
+2021-Jun-07 16:38:59 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:4 end----
+2021-Jun-07 16:39:17 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:0 start----
+2021-Jun-07 16:39:22 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:0 end----
+2021-Jun-07 16:39:23 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:1 start----
+2021-Jun-07 16:39:23 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:1 start----
+2021-Jun-07 16:39:28 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:1 end----
+2021-Jun-07 16:39:28 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:1 end----
+2021-Jun-07 16:39:28 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 16:39:28 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 16:39:28 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 16:39:35 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:2 end----
+2021-Jun-07 16:39:35 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:2 end----
+2021-Jun-07 16:39:35 - test_login.py - test_login.py - [line:19] - DEBUG - ----test:login;num:2 end----
+2021-Jun-07 16:39:35 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 16:39:35 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 16:39:35 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 16:39:35 - test_login.py - test_login.py - [line:17] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:0 start----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:0 end----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:1 start----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:1 start----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:1 end----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:1 end----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:2 end----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:2 end----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:2 end----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:3 end----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:3 end----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:3 end----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:3 end----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:4 start----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:4 start----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:4 start----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:4 start----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:4 start----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:4 end----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:4 end----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:4 end----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:4 end----
+2021-Jun-07 16:42:34 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:4 end----
+2021-Jun-07 16:43:36 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:0 start----
+2021-Jun-07 16:43:41 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:0 end----
+2021-Jun-07 16:43:41 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:1 start----
+2021-Jun-07 16:43:41 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:1 start----
+2021-Jun-07 16:43:47 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:1 end----
+2021-Jun-07 16:43:47 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:1 end----
+2021-Jun-07 16:43:47 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 16:43:47 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 16:43:47 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 16:43:53 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:2 end----
+2021-Jun-07 16:43:53 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:2 end----
+2021-Jun-07 16:43:53 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:2 end----
+2021-Jun-07 16:43:53 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 16:43:53 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 16:43:53 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 16:43:53 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 16:43:58 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:3 end----
+2021-Jun-07 16:43:58 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:3 end----
+2021-Jun-07 16:43:58 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:3 end----
+2021-Jun-07 16:43:58 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:3 end----
+2021-Jun-07 16:43:58 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:4 start----
+2021-Jun-07 16:43:58 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:4 start----
+2021-Jun-07 16:43:58 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:4 start----
+2021-Jun-07 16:43:58 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:4 start----
+2021-Jun-07 16:43:58 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:4 start----
+2021-Jun-07 16:44:03 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:4 end----
+2021-Jun-07 16:44:03 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:4 end----
+2021-Jun-07 16:44:03 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:4 end----
+2021-Jun-07 16:44:03 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:4 end----
+2021-Jun-07 16:44:03 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:4 end----
+2021-Jun-07 16:44:58 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:0 start----
+2021-Jun-07 16:45:03 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:0 end----
+2021-Jun-07 16:45:03 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:1 start----
+2021-Jun-07 16:45:03 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:1 start----
+2021-Jun-07 16:45:09 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:1 end----
+2021-Jun-07 16:45:09 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:1 end----
+2021-Jun-07 16:45:09 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 16:45:09 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 16:45:09 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 16:45:14 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:2 end----
+2021-Jun-07 16:45:14 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:2 end----
+2021-Jun-07 16:45:14 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:2 end----
+2021-Jun-07 16:45:14 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 16:45:14 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 16:45:14 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 16:45:14 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 16:48:17 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:0 start----
+2021-Jun-07 16:48:22 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:0 end----
+2021-Jun-07 16:48:22 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:1 start----
+2021-Jun-07 16:48:22 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:1 start----
+2021-Jun-07 16:48:28 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:1 end----
+2021-Jun-07 16:48:28 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:1 end----
+2021-Jun-07 16:48:28 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 16:48:28 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 16:48:28 - test_login.py - test_login.py - [line:18] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 16:52:35 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:0 start----
+2021-Jun-07 16:52:35 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:0 start----
+2021-Jun-07 16:52:40 - test_login.py - test_login.py - [line:22] - DEBUG - ----test:login;num:0 end----
+2021-Jun-07 16:52:40 - test_login.py - test_login.py - [line:22] - DEBUG - ----test:login;num:0 end----
+2021-Jun-07 16:52:40 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:1 start----
+2021-Jun-07 16:52:40 - test_login.py - test_login.py - [line:20] - DEBUG - ----test:login;num:1 start----
+2021-Jun-07 17:04:59 - test_login.py - test_login.py - [line:40] - DEBUG - ----test:login;num:1 start----
+2021-Jun-07 17:04:59 - test_login.py - test_login.py - [line:40] - DEBUG - ----test:login;num:1 start----
+2021-Jun-07 17:05:04 - test_login.py - test_login.py - [line:44] - DEBUG - ----test:login;num:1 end----
+2021-Jun-07 17:05:04 - test_login.py - test_login.py - [line:44] - DEBUG - ----test:login;num:1 end----
+2021-Jun-07 17:05:04 - test_login.py - test_login.py - [line:40] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 17:05:04 - test_login.py - test_login.py - [line:40] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 17:05:10 - test_login.py - test_login.py - [line:44] - DEBUG - ----test:login;num:2 end----
+2021-Jun-07 17:05:10 - test_login.py - test_login.py - [line:44] - DEBUG - ----test:login;num:2 end----
+2021-Jun-07 17:05:10 - test_login.py - test_login.py - [line:40] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 17:05:10 - test_login.py - test_login.py - [line:40] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 17:05:17 - test_login.py - test_login.py - [line:44] - DEBUG - ----test:login;num:3 end----
+2021-Jun-07 17:05:17 - test_login.py - test_login.py - [line:44] - DEBUG - ----test:login;num:3 end----
+2021-Jun-07 17:05:17 - test_login.py - test_login.py - [line:40] - DEBUG - ----test:login;num:4 start----
+2021-Jun-07 17:05:17 - test_login.py - test_login.py - [line:40] - DEBUG - ----test:login;num:4 start----
+2021-Jun-07 17:06:23 - test_login.py - test_login.py - [line:40] - DEBUG - ----test:login;num:1 start----
+2021-Jun-07 17:06:23 - test_login.py - test_login.py - [line:40] - DEBUG - ----test:login;num:1 start----
+2021-Jun-07 17:06:28 - test_login.py - test_login.py - [line:40] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 17:06:28 - test_login.py - test_login.py - [line:40] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 17:22:16 - test_login.py - test_login.py - [line:40] - DEBUG - ----test:login;num:1 start----
+2021-Jun-07 17:22:16 - test_login.py - test_login.py - [line:40] - DEBUG - ----test:login;num:1 start----
+2021-Jun-07 17:22:21 - test_login.py - test_login.py - [line:44] - DEBUG - ----test:login;num:1 end----
+2021-Jun-07 17:22:21 - test_login.py - test_login.py - [line:44] - DEBUG - ----test:login;num:1 end----
+2021-Jun-07 17:22:21 - test_login.py - test_login.py - [line:40] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 17:22:21 - test_login.py - test_login.py - [line:40] - DEBUG - ----test:login;num:2 start----
+2021-Jun-07 17:22:26 - test_login.py - test_login.py - [line:44] - DEBUG - ----test:login;num:2 end----
+2021-Jun-07 17:22:26 - test_login.py - test_login.py - [line:44] - DEBUG - ----test:login;num:2 end----
+2021-Jun-07 17:22:26 - test_login.py - test_login.py - [line:40] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 17:22:26 - test_login.py - test_login.py - [line:40] - DEBUG - ----test:login;num:3 start----
+2021-Jun-07 17:22:34 - test_login.py - test_login.py - [line:44] - DEBUG - ----test:login;num:3 end----
+2021-Jun-07 17:22:34 - test_login.py - test_login.py - [line:44] - DEBUG - ----test:login;num:3 end----
+2021-Jun-07 17:22:34 - test_login.py - test_login.py - [line:40] - DEBUG - ----test:login;num:4 start----
+2021-Jun-07 17:22:34 - test_login.py - test_login.py - [line:40] - DEBUG - ----test:login;num:4 start----
+2021-Jun-07 17:22:39 - test_login.py - test_login.py - [line:44] - DEBUG - ----test:login;num:4 end----
+2021-Jun-07 17:22:39 - test_login.py - test_login.py - [line:44] - DEBUG - ----test:login;num:4 end----
+2021-Jun-07 17:22:39 - test_login.py - test_login.py - [line:40] - DEBUG - ----test:login;num:5 start----
+2021-Jun-07 17:22:39 - test_login.py - test_login.py - [line:40] - DEBUG - ----test:login;num:5 start----
+2021-Jun-07 17:22:45 - test_login.py - test_login.py - [line:44] - DEBUG - ----test:login;num:5 end----
+2021-Jun-07 17:22:45 - test_login.py - test_login.py - [line:44] - DEBUG - ----test:login;num:5 end----
+2021-Jun-07 17:32:17 - Exception.py - BasePage.py - [line:23] - ERROR - find element: password_input error !
+2021-Jun-07 17:32:17 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 99, in find_element_wait
+    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2021-Jun-07 17:34:31 - Exception.py - BasePage.py - [line:23] - ERROR - find element: password_input error !
+2021-Jun-07 17:34:31 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 99, in find_element_wait
+    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2021-Jun-07 17:34:56 - Exception.py - BasePage.py - [line:23] - ERROR - find element: password_input error !
+2021-Jun-07 17:34:56 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 99, in find_element_wait
+    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2021-Jun-07 17:35:22 - Exception.py - BasePage.py - [line:23] - ERROR - find element: password_input error !
+2021-Jun-07 17:35:22 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 99, in find_element_wait
+    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2021-Jun-07 17:35:48 - Exception.py - BasePage.py - [line:23] - ERROR - find element: password_input error !
+2021-Jun-07 17:35:48 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 99, in find_element_wait
+    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2021-Jun-07 17:36:17 - Exception.py - BasePage.py - [line:23] - ERROR - find element: password_input error !
+2021-Jun-07 17:36:17 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 99, in find_element_wait
+    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2021-Jun-07 20:08:20 - Exception.py - BasePage.py - [line:23] - ERROR - find element: search_button error !
+2021-Jun-07 20:08:20 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 99, in find_element_wait
+    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2021-Jun-07 20:10:36 - Exception.py - BasePage.py - [line:23] - ERROR - get element£º search_button error !
+2021-Jun-07 20:10:36 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 53, in find_element
+    return self.driver.find_element(*loc)
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"ant-btn-primary"}
+  (Session info: chrome=90.0.4430.212)
+
+

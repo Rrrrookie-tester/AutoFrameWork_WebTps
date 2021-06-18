@@ -1,0 +1,9 @@
+2021-Jun-17 16:44:14 - Exception.py - BasePage.py - [line:23] - ERROR - find element: autosegmentation_button error !
+2021-Jun-17 16:44:14 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 106, in find_elements_wait
+    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+

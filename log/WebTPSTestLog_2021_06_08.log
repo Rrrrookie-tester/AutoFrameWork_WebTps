@@ -1,0 +1,64 @@
+2021-Jun-08 09:08:57 - Exception.py - BasePage.py - [line:23] - ERROR - find element: counter_button error !
+2021-Jun-08 09:08:57 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 106, in find_elements_wait
+    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(*loc))
+TypeError: __init__() takes 2 positional arguments but 3 were given
+
+2021-Jun-08 11:03:53 - Exception.py - BasePage.py - [line:23] - ERROR - find element: auto_part_button error !
+2021-Jun-08 11:03:53 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 99, in find_element_wait
+    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: invalid locator
+  (Session info: chrome=90.0.4430.212)
+
+
+2021-Jun-08 11:05:39 - Exception.py - BasePage.py - [line:23] - ERROR - find element: all_select_button error !
+2021-Jun-08 11:05:39 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 99, in find_element_wait
+    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2021-Jun-08 11:11:11 - Exception.py - BasePage.py - [line:23] - ERROR - find element: all_select_button error !
+2021-Jun-08 11:11:11 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 99, in find_element_wait
+    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2021-Jun-08 11:12:47 - Exception.py - BasePage.py - [line:23] - ERROR - find element: all_select_button error !
+2021-Jun-08 11:12:47 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 99, in find_element_wait
+    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+2021-Jun-08 11:13:55 - Exception.py - BasePage.py - [line:23] - ERROR - find element: result_promte_button error !
+2021-Jun-08 11:13:55 - Exception.py - BasePage.py - [line:24] - ERROR - Traceback (most recent call last):
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\utils\BasePage.py", line 99, in find_element_wait
+    WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\zexin.xu\PycharmProjects\AutoFrameWork_WebTps\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
